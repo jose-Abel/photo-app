@@ -13,7 +13,8 @@ A Photo App web application built following the guide in the Udemy course "The C
 - MVC design pattern
 
 ### Additional Gems
-
+- pg
+- rails_12factor
 
 ### Additional yarn packages
 
