@@ -18,6 +18,7 @@ A Photo App web application built following the guide in the Udemy course "The C
 - devise
 - twitter-bootstrap-rails
 - devise-bootstrap-views
+- jquery-rails
 
 ### Additional yarn packages
 
