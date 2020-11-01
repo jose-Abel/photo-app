@@ -15,6 +15,9 @@ A Photo App web application built following the guide in the Udemy course "The C
 ### Additional Gems
 - pg
 - rails_12factor
+- devise
+- twitter-bootstrap-rails
+- devise-bootstrap-views
 
 ### Additional yarn packages
 
