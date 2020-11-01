@@ -1,24 +1,47 @@
-# README
+# Photo App Tracker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Photo App web application built following the guide in the Udemy course "The Complete Ruby on Rails Developer Course" created by Rob Percival.
 
-Things you may want to cover:
+## Built With
+- HTML
+- CSS
+- Bootstrap
+- Javascript
+- npm packages
+- Ruby
+- Rails framework
+- MVC design pattern
 
-* Ruby version
+### Additional Gems
 
-* System dependencies
 
-* Configuration
+### Additional yarn packages
 
-* Database creation
 
-* Database initialization
+## Authors
+- 👤GitHub: [Jose Abel Ramirez](https://github.com/jose-Abel)
+- Linkedin: [Jose Abel Ramirez Frontany](https://www.linkedin.com/in/jose-abel-ramirez-frontany-7674a842/)
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## Getting Started
+You can clone this code anytime with the following command:
+- git clone https://github.com/jose-Abel/finance-tracker.git
 
-* Deployment instructions
+In the terminal, to have all the gems and packages to reproduce this project, run the following commands:
 
-* ...
+- bundle install --without production
+
+
+## Live version
+https://jose-abel-finance-tracker.herokuapp.com/
+
+
+### Acknowledgments
+Appreciate the teams at Udemy and the creator of the course Rob Percival since allows me to learn a lot of Ruby on Rails concepts and design principles.
+
+## 📝 License
+This project is MIT licensed.
+
+
+## Show your support
+Give a ⭐️ if you like this project!
