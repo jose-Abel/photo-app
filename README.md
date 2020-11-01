@@ -1,6 +1,6 @@
 # Photo App Tracker
 
-A Photo App web application built following the guide in the Udemy course "The Complete Ruby on Rails Developer Course" created by Rob Percival.
+A Photo App web application built following the guide in the Udemy course "The Complete Ruby on Rails Developer Course" created by Rob Percival and Mashrur Hossain.
 
 ## Built With
 - HTML
@@ -18,10 +18,10 @@ A Photo App web application built following the guide in the Udemy course "The C
 - devise
 - twitter-bootstrap-rails
 - devise-bootstrap-views
-- jquery-rails
+- rails-ujs
 
 ### Additional yarn packages
-
+- jquery
 
 ## Authors
 - 👤GitHub: [Jose Abel Ramirez](https://github.com/jose-Abel)
@@ -42,7 +42,7 @@ https://jose-abel-finance-tracker.herokuapp.com/
 
 
 ### Acknowledgments
-Appreciate the teams at Udemy and the creator of the course Rob Percival since allows me to learn a lot of Ruby on Rails concepts and design principles.
+Appreciate the teams at Udemy and the creator of the course Rob Percival and Mashrur Hossain since allows me to learn a lot of Ruby on Rails concepts and design principles.
 
 ## 📝 License
 This project is MIT licensed.
