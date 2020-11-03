@@ -19,7 +19,12 @@ A Photo App web application built following the guide in the Udemy course "The C
 - twitter-bootstrap-rails
 - devise-bootstrap-views
 - rails-ujs
+- jquery-rails
 - stripe
+- bootstrap
+- carrierwave
+- mini_magic
+- fog
 
 ### Additional yarn packages
 - jquery
